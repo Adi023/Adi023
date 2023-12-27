@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on JAVA SpringBoot React JS
+- 🌱 I’m currently learning Devops
+- 💬 Ask me about JAVA 
+- 📫 How to reach me:
+- Email : adityapandhare050@gmail.com
+- Mobile : 9325898901           
+
 <!--
 **Adi023/Adi023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
