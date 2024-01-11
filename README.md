@@ -1,5 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Adi023)](https://git.io/streak-stats)
-h1 align="center">Hi 👋, I'm Aditya Pandhare</h1>
+<h1 align="center">Hi 👋, I'm Aditya Pandhare</h1>
 
 <h3 align="center">A passionate fullstack web developer from India</h3
 
