@@ -2,7 +2,8 @@
 
 <h3 align="center">A passionate fullstack web developer from India</h3>
 <p align=center>
- <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Adi023&theme=radical" alt="GitHub Streak" /></a>
+<!--  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Adi023&theme=radical" alt="GitHub Streak" /></a> -->
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Adi023"/></a>
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=Adi023&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" > -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Adi023&label=Profile%20views&color=0e75b6&style=flat" alt="Adi023" /> </p>
