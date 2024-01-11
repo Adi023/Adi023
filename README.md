@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Pandhare</h1>
 
-<h3 align="center">A passionate fullstack web developer from India</h3>
+<h3 align="center">A passionate fullstack web developer from India</h3
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 <p align=center>
  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Adi023&theme=radical" alt="GitHub Streak" /></a>
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=Adi023&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" > -->
