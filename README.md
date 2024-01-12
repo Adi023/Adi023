@@ -4,14 +4,8 @@
 
 <p align=center>
  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Adi023&theme=radical" alt="GitHub Streak" /></a>
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
-</picture>
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=Adi023&&show_icons=true&title_color=00ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" > -->
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Adi023&label=Profile%20views&color=0e75b6&style=flat" alt="Adi023" /> </p>
-
   </p>
 <br/><hr/>
 <h3 align="left">Connect with me:</h3>
